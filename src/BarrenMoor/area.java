@@ -1,6 +1,6 @@
 package BarrenMoor;
 
-public class area extends mainGame {
+public class area {
 
 	static int[][] map = new int[20][20];
 
